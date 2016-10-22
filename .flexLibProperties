@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.ansonkong.media.parser.MP3Parser"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.MPEGVersion"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.Layer"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.ProtectionBit"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.Bitrate"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.SamplingRate"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.PaddingBit"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.ChannelMode"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.Copyright"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.Original"/>
+    <classEntry path="com.ansonkong.media.mp3.rule.Emphasis"/>
+    <classEntry path="com.ansonkong.media.mp3.info.MP3Info"/>
+    <classEntry path="com.ansonkong.media.mp3.util.MP3ValueParser"/>
+    <classEntry path="com.ansonkong.media.mp3.util.MP3CommonUtil"/>
+    <classEntry path="com.ansonkong.media.builder.MP3ToFLVStreamBuilder"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
